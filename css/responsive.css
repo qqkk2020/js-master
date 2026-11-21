@@ -1,0 +1,17 @@
+@media (max-width: 600px) {
+    .hero h1 {
+        font-size: 24px;
+    }
+    .topics-grid {
+        grid-template-columns: 1fr;
+    }
+    .container {
+        padding: 15px;
+    }
+    .theory-actions {
+        flex-direction: column;
+    }
+    .theory-actions .btn {
+        width: 100%;
+    }
+}
