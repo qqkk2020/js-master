@@ -1,0 +1,12 @@
+{
+  "name": "js-master",
+  "version": "1.0.0",
+  "description": "Інтерактивний навчальний тренажер із мови JavaScript",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
